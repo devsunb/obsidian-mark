@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-mark",
+  "name": "Mark",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "",
+  "author": "devsunb",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
